@@ -1,0 +1,5 @@
+UI/UX Prototype Link
+https://www.figma.com/proto/n8sEzoUAJN37d3tsj1EZ6A/Stream-Base?node-id=0-1&t=m3WLIZDxjzvoFTqv-1
+
+Flow Chart
+https://www.figma.com/board/j2TW6dJnrsXp6fcKWnokcu/Stream-Base-Flowchart?node-id=0-1&t=IDC9GH5GJJ06nsod-1

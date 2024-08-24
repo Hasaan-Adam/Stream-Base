@@ -1,0 +1,7 @@
+https://streambase/login
+https://streambase/dashboard
+https://streambase/providers
+https://streambase/subscriptions
+https://streambase/favourites
+https://streambase/contact
+https://streambase/feedback
